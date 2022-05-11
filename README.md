@@ -12,7 +12,7 @@ The app actually mimics the content available on the official website of [Anilis
 - [velocity_x](https://pub.dev/packages/velocity_x)
 
 
-
+https://github.com/ZAINBASHARATALI/Anima-A-Next-Gen-Anime-Platform-Mobile-Flutter-App-Using-GraphQL-API/blob/master/demo_video/Anima.gif?raw=true
 
 
 
