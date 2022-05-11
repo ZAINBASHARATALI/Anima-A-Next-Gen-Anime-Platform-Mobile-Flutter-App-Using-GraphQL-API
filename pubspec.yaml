@@ -32,7 +32,6 @@ dependencies:
     sdk: flutter
   get: ^4.6.1
   graphql_flutter: ^5.1.0
-  shimmer_image: ^0.0.2
   velocity_x: ^3.4.0
 
 dev_dependencies:
